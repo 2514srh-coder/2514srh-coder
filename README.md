@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->![Cute Banner](https://yourimageurl.com/cute-banner.png)
 
 # 🌸 Welcome to My GitHub! 🌸
-#FFE01A 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
